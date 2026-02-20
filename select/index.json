@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Ghost(Dotnoi Remix)",
+  "base_artist": "*Luna feat. ねんね",
+  "createdAt": "2026-02-20T09:58:12.348492Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ghost (Dotnoi Remix)",
+      "artist": "*Luna feat. ねんね",
+      "has_synced": false,
+      "path": "select/pl_01_Ghost_(Dotnoi_Remix)_Luna_feat._ねんね.txt"
+    }
+  ]
+}
